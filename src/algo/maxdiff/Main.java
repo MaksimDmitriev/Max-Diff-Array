@@ -1,4 +1,4 @@
-package algo.mindiff;
+package algo.maxdiff;
 
 public class Main {
 
